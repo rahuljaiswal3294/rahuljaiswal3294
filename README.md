@@ -89,19 +89,6 @@ Motivated and results-driven **Mobile Application Developer** with **5+ years** 
 
 ---
 
-### ⚙️ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahuljaiswal3294&show_icons=true&theme=tokyonight" alt="rahuljaiswal3294 stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahuljaiswal3294&theme=tokyonight" alt="streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljaiswal3294&layout=compact&theme=tokyonight" width="50%"/>
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -109,10 +96,6 @@ Motivated and results-driven **Mobile Application Developer** with **5+ years** 
   <a href="https://github.com/rahuljaiswal3294"><img src="https://skillicons.dev/icons?i=github" width="45px" /></a>
   <a href="mailto:rahuljaiswal3294@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px" /></a>
 </p>
-
----
-
-<p align="center">💬 “Code. Create. Innovate.”</p>
 
 ---
 
