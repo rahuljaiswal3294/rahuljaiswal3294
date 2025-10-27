@@ -54,7 +54,7 @@ Motivated and results-driven **Mobile Application Developer** with **5+ years** 
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| **Gazinta App** | Discreet social network for adult communities. | React Native |
+| **Gazinta App** | A smart meat inventory app for hunters and homesteaders to track harvests, organize freezers, and reduce waste effortlessly. | React Native |
 | **2NITE App** | Nightlife discovery app for Europe. | React Native |
 | **Phil Ross Fitness** | Fitness & self-defense app with BodyBell Method®. | React Native |
 | **UTS Live (Ultimate Tennis Showdown)** | Fan engagement app with live scores, social media integration & store. | React Native |
