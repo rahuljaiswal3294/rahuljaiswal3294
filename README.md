@@ -43,7 +43,7 @@ Motivated and results-driven **Mobile Application Developer** with **5+ years** 
 - Led app performance optimization and code refactoring.
 
 #### 💡 **ZeeweeSoft** — Android & React Native Developer  
-*📅 Jan 2019 – Jul 2021 | Remote*  
+*📅 Jan 2019 – Jul 2021 | Indore, India*  
 - Built native **Android apps** in Java and transitioned to React Native.  
 - Delivered multiple high-performance client apps with excellent UX.  
 - Implemented unit testing and optimized app lifecycle management.
