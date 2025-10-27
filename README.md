@@ -1,11 +1,11 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Rahul Kumar Jaiswal</h1>
-<h3 align="center">💻 Mobile Application Developer | Android & React Native Specialist</h3>
+<h3 align="center">💻 Mobile Application Developer | React Native Specialist</h3>
 
 <p align="center">
   📍 Khandwa, Madhya Pradesh, India | ✉️ <a href="mailto:rahuljaiswal3294@gmail.com">rahuljaiswal3294@gmail.com</a>  
   <br/>
-  🔗 <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> | 💻 <a href="YOUR_GITHUB_LINK">GitHub</a>
+  🔗 <a href="https://www.linkedin.com/in/rahul-kumar-jaiswal-216621177">LinkedIn</a> | 💻 <a href="https://github.com/rahuljaiswal3294">GitHub</a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 💼 Career Objective
 
-Motivated and results-driven **Mobile Application Developer** with **5+ years** of experience in **Android** and **React Native** development. Seeking to contribute to a forward-thinking organization where innovation, collaboration, and continuous learning drive success.
+Motivated and results-driven **Mobile Application Developer** with **5+ years** of experience in **React Native** development. Seeking to contribute to a forward-thinking organization where innovation, collaboration, and continuous learning drive success.
 
 ---
 
@@ -24,7 +24,7 @@ Motivated and results-driven **Mobile Application Developer** with **5+ years** 
 
 | Category | Skills & Tools |
 |-----------|----------------|
-| **Programming** | Java, React Native, JavaScript, HTML, XML |
+| **Programming** | React Native, JavaScript, HTML, XML |
 | **Mobile Platforms** | Android (Java), React Native, Expo |
 | **Tools & IDEs** | Android Studio, Visual Studio Code, Xcode, Postman |
 | **Databases** | Firebase, SQLite |
@@ -54,6 +54,9 @@ Motivated and results-driven **Mobile Application Developer** with **5+ years** 
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
+| **Gazinta App** | Discreet social network for adult communities. | React Native |
+| **2NITE App** | Nightlife discovery app for Europe. | React Native |
+| **Phil Ross Fitness** | Fitness & self-defense app with BodyBell Method®. | React Native |
 | **UTS Live (Ultimate Tennis Showdown)** | Fan engagement app with live scores, social media integration & store. | React Native |
 | **YLanes** | Audio/video conversation platform with curated topics. | React Native |
 | **Incluzon** | Job placement app for graduates with assessments & learning. | React Native |
@@ -64,9 +67,6 @@ Motivated and results-driven **Mobile Application Developer** with **5+ years** 
 | **Ranky** | Fitness tracking app rewarding users via Google Fit. | Android (Java) |
 | **Fat-food** | Homemade meal delivery & subscription app. | Android (Java) |
 | **It’s My Society** | Society management app with polls and maintenance. | Android (Java) |
-| **Gazinta App** | Discreet social network for adult communities. | React Native |
-| **2NITE App** | Nightlife discovery app for Europe. | React Native |
-| **Phil Ross Fitness** | Fitness & self-defense app with BodyBell Method®. | React Native |
 
 ---
 
@@ -105,7 +105,7 @@ Motivated and results-driven **Mobile Application Developer** with **5+ years** 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK"><img src="https://skillicons.dev/icons?i=linkedin" width="45px" /></a>
+  <a href="https://www.linkedin.com/in/rahul-kumar-jaiswal-216621177"><img src="https://skillicons.dev/icons?i=linkedin" width="45px" /></a>
   <a href="https://github.com/rahuljaiswal3294"><img src="https://skillicons.dev/icons?i=github" width="45px" /></a>
   <a href="mailto:rahuljaiswal3294@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px" /></a>
 </p>
