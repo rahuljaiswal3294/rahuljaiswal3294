@@ -1,4 +1,3 @@
-text
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Rahul Kumar Jaiswal</h1>
 <h3 align="center">💻 Mobile Application Developer | React Native Specialist</h3>
@@ -65,7 +64,6 @@ QR scanner/generator (react-native-qrcode-scanner/svg)
 
 Lottie animations + custom toast notifications
 
-text
 **Status:** Live on [App Store](https://apps.apple.com/us/app/gazinta/id6742785888) | [Play Store](https://play.google.com/store/apps/details?id=com.gazinta)
 
 #### **🎵 2NITE App** — [Live](https://www.2nite.eu/en)  
@@ -79,41 +77,27 @@ Dark/Light mode, Firebase push, Google AdMob
 
 Firebase Dynamic Links → Custom solution (post-deprecation)
 
-text
-
 #### **💪 Phil Ross Fitness** — Self-Defense App  
 Superwall + RevenueCat IAP (Android/iOS)
 
 Remote video streaming for BodyBell Method workouts
 
-text
-
 #### **🎾 UTS Live** — Tennis Fan Engagement  
 Live streaming video integration
-
-text
 
 #### **💬 YLanes** — Audio/Video Platform  
 Zoom SDK for HD audio/video conversations
 
-text
-
 #### **🏆 Incluzon** — Job Placement Platform  
 Level-wise dashboards + MCQ engine (checkbox/radio/images)
-
-text
 
 #### **🃏 The Home Game** — Poker Tracking (Expo)  
 Win probability calculator + custom card picker
 
 Reanimated + Gesture Handler animations
 
-text
-
 #### **🏃 Ranky** — Fitness Tracking (Android Java)  
 Google Fitness API (steps, calories, sleep data)
-
-text
 
 ---
 
