@@ -56,6 +56,7 @@ Results-driven **React Native Developer** with **5+ years** experience building 
 
 #### **🎯 Gazinta App** — [Live](https://gazintaapp.com/)  
 *Smart meat inventory for hunters & homesteaders*  
+
 Stripe subscriptions via web (bypassed App Store policies)
 
 Google/Apple SSO + JWT mobile→web authentication
@@ -69,6 +70,7 @@ text
 
 #### **🎵 2NITE App** — [Live](https://www.2nite.eu/en)  
 *Music events & presales discovery (Europe)*  
+
 Bilingual (English/German), timezone-aware, location-based
 
 Animated headers (onScroll/onViewableItemsChanged)
