@@ -446,6 +446,8 @@ I'm open to opportunities related to:
   <a href="https://www.linkedin.com/in/rahul-kumar-jaiswal-216621177/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rahuljaiswal3294@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.icons8.com/fluency/48/domain.png" width="50" alt="Portfolio"></a>
 </p>
 
 ---
