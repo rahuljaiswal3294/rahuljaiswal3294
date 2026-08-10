@@ -10,7 +10,7 @@ I'm also actively expanding my expertise in **Generative AI and AI-assisted soft
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 📱 7+ years of software development experience
 - ⚛️ 6+ years focused on React Native
@@ -307,6 +307,21 @@ Fitness tracking application built with Android Java and Google Fitness APIs.
 
 ---
 
+# 📦 Open Source & NPM
+
+### `react-native-country-code-and-currency-picker`
+
+A reusable React Native package for selecting **country codes and currencies** in mobile applications.
+
+**Technologies:** React Native • JavaScript/TypeScript • NPM
+
+📦 **NPM Package:**  
+[react-native-country-code-and-currency-picker](https://www.npmjs.com/package/react-native-country-code-and-currency-picker)
+
+This package demonstrates my interest in building **reusable React Native components and developer-focused open-source tooling**.
+
+---
+
 # 🏗️ Architecture & Engineering
 
 I focus on building applications that remain maintainable and scalable as products grow.
@@ -418,3 +433,21 @@ Performance Engineering
 Generative AI
       =
 Modern AI-Enabled Mobile Applications
+
+---
+
+# 🤝 Let's Connect
+
+I'm open to opportunities related to:
+
+**Senior React Native Developer • Senior Mobile Engineer • Lead Mobile Developer • React Native Architect**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-kumar-jaiswal-216621177/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rahuljaiswal3294@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail"></a>
+</p>
+
+---
+
+⭐ Building scalable mobile experiences with React Native & exploring what's next with AI.
