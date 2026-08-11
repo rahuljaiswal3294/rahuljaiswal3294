@@ -447,7 +447,7 @@ I'm open to opportunities related to:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rahuljaiswal3294@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.icons8.com/fluency/48/domain.png" width="50" alt="Portfolio"></a>
+  <a href="https://rahul-jaiswal.lovable.app/"><img src="https://img.icons8.com/fluency/48/domain.png" width="50" alt="Portfolio"></a>
 </p>
 
 ---
