@@ -436,6 +436,8 @@ Modern AI-Enabled Mobile Applications
 
 ---
 
+---
+
 # 🤝 Let's Connect
 
 I'm open to opportunities related to:
@@ -443,7 +445,7 @@ I'm open to opportunities related to:
 **Senior React Native Developer • Senior Mobile Engineer • Lead Mobile Developer • React Native Architect**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahul-kumar-jaiswal-216621177/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/rahul-k-jaiswal/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rahuljaiswal3294@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
